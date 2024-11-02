@@ -1,0 +1,15 @@
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 53.52, 'humedad': 60, 'direccion_viento': 'NE'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 47.46, 'humedad': 62, 'direccion_viento': 'O'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 55.21, 'humedad': 42, 'direccion_viento': 'NE'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 38.96, 'humedad': 58, 'direccion_viento': 'SE'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 43.89, 'humedad': 41, 'direccion_viento': 'S'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 54.09, 'humedad': 81, 'direccion_viento': 'N'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 50.98, 'humedad': 73, 'direccion_viento': 'SO'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 51.36, 'humedad': 54, 'direccion_viento': 'N'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 54.86, 'humedad': 34, 'direccion_viento': 'SE'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 40.36, 'humedad': 57, 'direccion_viento': 'O'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 56.42, 'humedad': 67, 'direccion_viento': 'S'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 64.52, 'humedad': 36, 'direccion_viento': 'S'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 42.56, 'humedad': 70, 'direccion_viento': 'NE'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 53.29, 'humedad': 53, 'direccion_viento': 'E'}
+Mensaje recibido: Clave=javi, Valor={'sensor_id': 'javi', 'temperatura': 49.44, 'humedad': 52, 'direccion_viento': 'NO'}
